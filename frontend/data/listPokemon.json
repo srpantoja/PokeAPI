@@ -1,0 +1,22 @@
+{
+    "listPokemon": [
+        {
+            "id": 1,
+            "name": "Bulbasaur",
+            "type1": "Planta",
+            "type2": "Normal"
+        },
+        {
+            "id": 2,
+            "name": "Charmander",
+            "type1": "Fogo",
+            "type2": "Normal"
+        },
+        {
+            "id": 3,
+            "name": "Squirtle",
+            "type1": "Água",
+            "type2": "Normal"
+        }
+    ]
+}
